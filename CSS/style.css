@@ -1,0 +1,17 @@
+.container-fluid {
+  width: 300px;
+  padding: 10px;
+}
+
+.navbar-toggler {
+  margin: 10px;
+}
+
+.navbar-collapse {
+  padding-left: 10px;
+}
+
+.pagination {
+  justify-content: center;
+  margin-top: 10px;
+}
