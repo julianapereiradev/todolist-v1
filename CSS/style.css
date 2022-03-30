@@ -1,14 +1,6 @@
-.container-fluid {
-  width: 300px;
-  padding: 10px;
-}
-
-.navbar-toggler {
-  margin: 10px;
-}
-
-.navbar-collapse {
-  padding-left: 10px;
+.form-control {
+  padding: 6px;
+  width: 250px;
 }
 
 .pagination {
