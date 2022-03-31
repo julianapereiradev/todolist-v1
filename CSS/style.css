@@ -7,3 +7,16 @@
   justify-content: center;
   margin-top: 10px;
 }
+
+.button-add {
+  text-align: center;
+  position: relative;
+  bottom: -450px;
+}
+
+.btn-button-add {
+  width: 80px;
+  height: 80px;
+  line-height: 40px;
+  font-size: 60px;
+}
